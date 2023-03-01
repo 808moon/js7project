@@ -1,0 +1,19 @@
+div{
+    width: 100px;
+    height: 100px;
+    margin: 20px 20px auto;
+    padding: 20px auto;
+    background-color: rgb(166, 119, 185);
+    display: inline-block;
+    transition: 300ms;
+    box-sizing: border-box;
+
+}
+.active{
+    background-color: rgb(133, 21, 207);
+    transition: 300ms;
+}
+.radius{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
+}
